@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSigning", "DigitalSigning\DigitalSigning.csproj", "{4048C65C-8B30-42EE-83FC-49406D8D1511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4048C65C-8B30-42EE-83FC-49406D8D1511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4048C65C-8B30-42EE-83FC-49406D8D1511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4048C65C-8B30-42EE-83FC-49406D8D1511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4048C65C-8B30-42EE-83FC-49406D8D1511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F14DBA-8B4F-44C2-BBC7-9B852D82EE1B}
+	EndGlobalSection
+EndGlobal

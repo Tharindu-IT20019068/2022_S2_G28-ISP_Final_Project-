@@ -1,0 +1,76 @@
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.exe
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.deps.json
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.runtimeconfig.json
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.runtimeconfig.dev.json
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.dll
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\ref\AESEncryption.dll
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.pdb
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csprojAssemblyReference.cache
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.Form1.resources
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.GenerateResource.cache
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.AssemblyInfoInputs.cache
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.AssemblyInfo.cs
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.CoreCompileInputs.cache
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.dll
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\ref\AESEncryption.dll
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.pdb
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.genruntimeconfig.cache
+C:\Users\kulde\source\repos\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.exe
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.deps.json
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.runtimeconfig.json
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.runtimeconfig.dev.json
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.dll
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\ref\AESEncryption.dll
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.pdb
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.Form1.resources
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.dll
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\ref\AESEncryption.dll
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.pdb
+C:\Users\USER\Desktop\New folder (2)\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.genruntimeconfig.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.exe
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.deps.json
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.runtimeconfig.json
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.runtimeconfig.dev.json
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\ref\AESEncryption.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.pdb
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.Form1.resources
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.Properties.Resources.resources
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\ref\AESEncryption.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.pdb
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.genruntimeconfig.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.exe
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.deps.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.runtimeconfig.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\ref\AESEncryption.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\bin\Debug\net5.0-windows\AESEncryption.pdb
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.Form1.resources
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.Properties.Resources.resources
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.AssemblyInfo.cs
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\ref\AESEncryption.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.pdb
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\AESEncryption\AESEncryption\obj\Debug\net5.0-windows\AESEncryption.genruntimeconfig.cache

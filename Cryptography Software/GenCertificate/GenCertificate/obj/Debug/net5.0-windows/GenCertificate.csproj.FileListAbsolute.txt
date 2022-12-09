@@ -1,0 +1,86 @@
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.exe
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.deps.json
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.runtimeconfig.json
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.runtimeconfig.dev.json
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.dll
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\ref\GenCertificate.dll
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.pdb
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csprojAssemblyReference.cache
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.Form1.resources
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.GenerateResource.cache
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.AssemblyInfoInputs.cache
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.AssemblyInfo.cs
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.CoreCompileInputs.cache
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.CopyComplete
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.dll
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\ref\GenCertificate.dll
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.pdb
+C:\Users\kulde\source\repos\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.genruntimeconfig.cache
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.exe
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.deps.json
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.runtimeconfig.json
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.runtimeconfig.dev.json
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.dll
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\ref\GenCertificate.dll
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.pdb
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.Form1.resources
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.CopyComplete
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.dll
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\ref\GenCertificate.dll
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.pdb
+C:\Users\USER\Desktop\New folder (2)\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.genruntimeconfig.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.exe
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.deps.json
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.runtimeconfig.json
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.runtimeconfig.dev.json
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\ref\GenCertificate.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.pdb
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.Form1.resources
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.CopyComplete
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\ref\GenCertificate.dll
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.pdb
+C:\Users\USER\Desktop\New folder (2)\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.genruntimeconfig.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.exe
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.deps.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.runtimeconfig.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\ref\GenCertificate.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\GenCertificate.pdb
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\zh-Hans-HK\GenCertificate.resources.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.Form1.resources
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.Home.resources
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.Home.zh-Hans-HK.resources
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.AssemblyInfo.cs
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\zh-Hans-HK\GenCertificate.resources.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.csproj.CopyComplete
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\ref\GenCertificate.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.pdb
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.genruntimeconfig.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.HMAC.resources
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\GenCertificate\GenCertificate\obj\Debug\net5.0-windows\GenCertificate.Properties.Resources.resources

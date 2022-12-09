@@ -1,0 +1,60 @@
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.exe
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.deps.json
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.runtimeconfig.json
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.runtimeconfig.dev.json
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.dll
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\ref\DigitalSigning.dll
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.pdb
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.Form1.resources
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.GenerateResource.cache
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.AssemblyInfoInputs.cache
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.AssemblyInfo.cs
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.CoreCompileInputs.cache
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.dll
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\ref\DigitalSigning.dll
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.pdb
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.genruntimeconfig.cache
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.CopyComplete
+C:\Users\kulde\source\repos\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.exe
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.deps.json
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.runtimeconfig.json
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.runtimeconfig.dev.json
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.dll
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\ref\DigitalSigning.dll
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.pdb
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.Form1.resources
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.CopyComplete
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.dll
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\ref\DigitalSigning.dll
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.pdb
+C:\Users\USER\Desktop\New folder (2)\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.genruntimeconfig.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.exe
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.deps.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.runtimeconfig.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\ref\DigitalSigning.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\DigitalSigning.pdb
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.Form1.resources
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.AssemblyInfo.cs
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.csproj.CopyComplete
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\ref\DigitalSigning.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.pdb
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\DigitalSigning\DigitalSigning\obj\Debug\net5.0-windows\DigitalSigning.genruntimeconfig.cache

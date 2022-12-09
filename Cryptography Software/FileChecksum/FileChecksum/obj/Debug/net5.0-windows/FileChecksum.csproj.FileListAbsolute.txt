@@ -1,0 +1,60 @@
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.exe
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.deps.json
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.runtimeconfig.json
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.runtimeconfig.dev.json
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.dll
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\ref\FileChecksum.dll
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.pdb
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.Form1.resources
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.GenerateResource.cache
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.AssemblyInfoInputs.cache
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.AssemblyInfo.cs
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.CoreCompileInputs.cache
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.dll
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\ref\FileChecksum.dll
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.pdb
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.genruntimeconfig.cache
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.CopyComplete
+C:\Users\kulde\source\repos\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.exe
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.deps.json
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.runtimeconfig.json
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.runtimeconfig.dev.json
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.dll
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\ref\FileChecksum.dll
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.pdb
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.Form1.resources
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.CopyComplete
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.dll
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\ref\FileChecksum.dll
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.pdb
+C:\Users\USER\Desktop\New folder (2)\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.genruntimeconfig.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.exe
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.deps.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.runtimeconfig.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.runtimeconfig.dev.json
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\ref\FileChecksum.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\FileChecksum.pdb
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.Form1.resources
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.AssemblyInfo.cs
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.csproj.CopyComplete
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\ref\FileChecksum.dll
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.pdb
+C:\Users\USER\Desktop\ISP project\2022_S2_G28\FileChecksum\FileChecksum\obj\Debug\net5.0-windows\FileChecksum.genruntimeconfig.cache
